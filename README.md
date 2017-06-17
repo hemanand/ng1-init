@@ -17,4 +17,4 @@ Angular1,Gulp,Karma stack followed the [Jhonpapa's Angular Style Guide](https://
 Thanks to @johnpapa
 
 # Author
-[Velu](mailto:velu_developer@yahoo.com)
+[hemanand](mailto:hemanand5303@gmail.com)
